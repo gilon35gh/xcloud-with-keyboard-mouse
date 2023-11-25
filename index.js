@@ -44,7 +44,7 @@ let setMouseToAnalog = 2;
     Define o nível de sensibilidade no mouse
 */
 
-let sensibility = 0.6;
+let sensibility = 0.9;
 
 /*
 
